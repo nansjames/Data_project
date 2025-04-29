@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Color,Size,Price,Stock
+AR-001,RXV450T,Audio Receiver,Black,"15.5"" x 12""",$299.00,25
+CP-001,DEJ 785,CD Player,Silver,"10.2"" x 8.7""",$129.00,18
+NE-001,DNE 300S,Network Extender,White,"6.3"" x 4.1""",$89.00,42
+AS-001,Philips AZ1830,Audio System,Titanium,"18"" x 5.9""",$199.00,30
+RT-001,NETGEAR WPN824,Router,Black,"9.8"" x 7.1""",$79.00,55
+PA-001,Philips PAC001,Power Adapter,Gray,"3.9"" x 2.4""",$29.00,100
+AS-002,Philips AX3301,Audio System,Black,"14"" x 6.3""",$159.00,22
+CL-001,Canon VCL0625S,Camera Lens,Graphite,"2.8"" diameter",$349.00,12
+PJ-001,Sony NVX-P1,Projector,White,"11.8"" x 3.9""",$899.00,8
+CD-001,Pioneer AVH P7500DVD,Car DVD Player,Silver,"7"" screen",$449.00,15
+DP-001,DVP 720 SA,DVD Player,Black,"8.6"" x 10.2""",$69.00,34
+AS-003,Philips AZ1130,Audio System,Silver,"12.4"" x 7.5""",$149.00,27
+AS-004,Philips AZ1004,Audio System,Black,"10.6"" x 5.9""",$119.00,38
+CP-002,Philips-MCD510,CD Player,Silver,"9.4"" x 7.5""",$89.00,20
+DC-001,Olympus DIGITAL 720SW,Camera,Blue,"3.5"" x 2.3""",$199.00,14
+DC-002,Olympus DIGITAL 740SW,Camera,Red,"3.5"" x 2.3""",$249.00,9
+DC-003,Olympus DIGITAL 760SW,Camera,Black,"3.7"" x 2.4""",$299.00,7
+DC-004,Olympus FE-140,Camera,Silver,"3.3"" x 2.1""",$149.00,21
+TV-001,Thomson Lyra PDP5512K,Plasma TV,Black,"55"" screen","$1,299.00",5
+TV-002,Ecran plasma HD RZ-42PY10,Plasma TV,Titanium,"42"" screen",$999.00,11
+TV-003,32PF9965,TV,Silver,"32"" screen",$499.00,18
+DC-005,Appareil numerique OPTIOS55,Camera,Black,"3.9"" x 2.5""",$179.00,23
+DC-006,Appareil numerique OPTIO,Camera,White,"3.7"" x 2.3""",$159.00,17
+PJ-002,VPL DS 100,Projector,Black,"12.6"" x 4.3""",$699.00,10
+PJ-003,PT-AE300,Projector,Silver,"13.1"" x 4.7""",$799.00,6
+PJ-004,PT-AE500,Projector,White,"14"" x 5.1""","$1,199.00",4
+PJ-005,Video projecteur DLP RD-JT33,Projector,Black,"15.7"" x 5.9""",$599.00,9
+PJ-006,Video projecteur DLP 16/9 RD-JT92,Projector,Graphite,"16.5"" x 6.3""","$1,499.00",3
+PJ-007,Video projecteur DLP RD-JT91,Projector,Titanium,"14.9"" x 5.5""","$1,099.00",7
+DP-002,SV-DVD 940,DVD Player,Silver,"8.3"" x 9.8""",$59.00,45
+VC-001,Magnetoscope 4 Tetes MG 64,VCR,Gray,"16.5"" x 12.2""",$49.00,2
+VC-002,Magnetoscope VHS MG-25,VCR,Beige,"14.3"" x 10.6""",$29.00,1
+SP-001,Enceinte MS 902 AVANT,Speaker,Black,"12"" x 8.7""",$129.00,28
+DV-001,Toshiba SD 35VE,DVD/VCR Combo,Silver,"17"" x 12.5""",$149.00,13
+DP-003,SD 24E,DVD Player,White,"7.9"" x 10.1""",$49.00,37
+TV-004,42WM03ST,TV,Black,"42"" screen",$699.00,16
+CS-001,DEH-P8400MP,Car Stereo,Black,"7"" screen",$199.00,24
+TV-005,LV-5210,TV,Silver,"52"" screen",$899.00,9
+TV-006,KLV-15SR2S,TV,Titanium,"15"" screen",$199.00,33
+TV-007,Philips 28PW9308,TV,Black,"28"" screen",$349.00,19
+DC-007,Coolpix 3100,Camera,Silver,"3.1"" x 2.2""",$129.00,41
+DC-008,DMC-LC1 Black,Camera,Black,"4.3"" x 2.9""",$599.00,8
+CC-001,Camescope mini DV MVX-350i,Camcorder,Silver,"4.7"" x 3.1""",$399.00,12
+HD-001,HDD 060,External Hard Drive,Black,"3.9"" x 5.5""",$69.00,50
+DC-009,C150,Camera,Pink,"3.3"" x 2.0""",$89.00,29
+DC-010,Casio EXILIM CARD EX-S500,Camera,Silver,"3.5"" x 2.1""",$199.00,15
+DP-004,DVP-F25,DVD Player,Graphite,"8.5"" x 10.0""",$39.00,62
+DP-005,DVP-PQ2,DVD Player,Black,"8.2"" x 9.8""",$49.00,44
+HD-002,HDD100,External Hard Drive,White,"4.1"" x 5.9""",$89.00,38
+CC-002,JVC Everio GZ-MG67,Camcorder,Black,"5.1"" x 3.3""",$299.00,21
